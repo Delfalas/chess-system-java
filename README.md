@@ -44,7 +44,7 @@ Este é um projeto de jogo de xadrez em Java que foi desenvolvido como parte de 
 
 
 <p align = "center">
-  <img min-width = "1000" height = "420" src = "assets/Untitled ‑ Made with FlexClip.gif">
+  <img min-width = "1000" height = "420" src = "assets/3.gif">
 </p>
 
 
