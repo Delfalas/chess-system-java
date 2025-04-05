@@ -20,7 +20,7 @@ Este é um projeto de jogo de xadrez em Java que foi desenvolvido como parte de 
    git clone https://github.com/seu-usuario/seu-projeto-xadrez-java.git
    ```
    
-2. Rode o projeto usando a IDE IntelliJ IDEA Community ou VS Code
+2. Rode o projeto usando o Eclipse, IDE IntelliJ IDEA Community ou VS Code
 
    Ou
    
